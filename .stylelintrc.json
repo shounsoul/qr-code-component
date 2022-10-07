@@ -1,0 +1,9 @@
+{
+    "rules": {
+        "no-eol-whitespace": true
+        "no-extra-semicolons": false
+    
+        
+    }
+    
+}
